@@ -1,0 +1,17 @@
+.eye-1, .eye-3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid black;
+    position: relative;
+    float: left;
+}
+.eye-2, .eye-4{
+    width: 30px;
+    height: 30px;
+    background: black;
+    position: absolute;
+    left: 70px;
+    bottom: 35px;
+    border-radius: 100%;
+}
